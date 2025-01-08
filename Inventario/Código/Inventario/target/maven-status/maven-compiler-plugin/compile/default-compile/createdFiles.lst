@@ -1,0 +1,5 @@
+com\mycompany\inventario\SearchStrategy.class
+com\mycompany\inventario\Estrategia.class
+com\mycompany\inventario\BinarySearchStrategy.class
+com\mycompany\inventario\Inventario.class
+com\mycompany\inventario\LinearSearchStrategy.class
